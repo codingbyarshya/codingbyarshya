@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingbyarshya
-- 👀 I’m interested in game developing & game coding
-- 🌱 I’m currently learning gdevelop/unreal
+- 👀 I’m interested in Web Dev & coding
+- 🌱 I’m currently learning Js/Css/Html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
