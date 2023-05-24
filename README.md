@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingbyarshya
 - 👀 I’m interested in Web Dev & coding
-- 🌱 I’m currently learning Js/Css/Html
+- 🌱 I’m currently learning React/Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by instagram: zwaterboy
 
