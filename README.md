@@ -1,7 +1,6 @@
 - Hi,I’m @codingbyarshya (Arshya)
-- I’m interested in Web Dev & coding
-- I’m currently learning Node.js
-- I’m looking to collaborate on Web Dev Internships
+- I’m interested in Web Dev & coding & DL/ML Projects
+- I’m currently learning Deep Learning models
 - How to reach me : codingbyarshya@gmail.com
 
 <!---
